@@ -1,0 +1,12 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:brianstry/learning-react.git",
+  "author": "Brian Strylowski <brianstry@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
